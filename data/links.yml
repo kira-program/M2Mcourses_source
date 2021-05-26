@@ -9,7 +9,7 @@ tiles:
   name: "Intro to Python Concepts"
   url: "https://courses.m2mtechconnect.com/courses/python-concepts"
   img: "logos/python.svg"
-  bg_color: "BEFD9C"
+  bg_color: "95FF8D"
   tags: ["python"]
 -
   name: "Rock, Paper, Scissors"
