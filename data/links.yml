@@ -3,7 +3,7 @@ tiles:
   name: "Intro to Python Programming"
   url: "https://courses.m2mtechconnect.com/courses/python-introduction"
   img: "logos/python.svg"
-  bg_color: "BEFD9C"
+  bg_color: "95FF8D"
   tags: ["python"]
 -
   name: "Intro to Python Concepts"
