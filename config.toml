@@ -4,7 +4,7 @@ title = "M2M Courses"
 theme = "slate"
 
 [ params ]
-BackgroundImages = ["bg/1.jpg", "bg/2.jpg", "bg/3.jpg", "bg/4.jpg"]
+BackgroundImages = ["bg/1.jpg", "bg/2.jpg", "bg/3.jpg", "bg/4.jpg", "bg/5.jpg"]
 Favicon = "favicon.ico"
 BackgroundStyle = "#657383"
 OpenLinksInNewWindow = true
